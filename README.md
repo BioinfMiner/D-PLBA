@@ -41,9 +41,6 @@ D-PLBA addresses this limitation by explicitly incorporating the **dynamic evolu
 - **Joint structural and energetic representation**  
   Integrates complementary conformational and energetic information to provide a more comprehensive representation of protein–ligand binding.
 
-- **Unified prediction framework**  
-  Connects dynamic binding-state prediction with downstream affinity estimation within a unified modeling framework.
-
 ---
 
 ## Framework
