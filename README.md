@@ -82,20 +82,6 @@ The current implementation has been tested in the following environment:
 
 > **Note:** The current codebase is compatible with **PyTorch Geometric (PyG) >= 2.0**.
 
-### Installation with Conda
-
-We recommend creating an isolated Conda environment using the provided YAML configuration:
-
-```bash
-conda env create -f environment.yml
-```
-
-Then activate the environment:
-
-```bash
-conda activate D-PLBA
-```
-
 ---
 
 ## Dataset
