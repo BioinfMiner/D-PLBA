@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Dynamic Pocket–Ligand Binding Affinity Prediction
+### D-PLBA: Dynamics-Driven Protein–Ligand Binding Affinity Prediction via Flexible Motion Modeling
 
 **D-PLBA** is a dynamics-driven framework for **protein–ligand binding affinity (PLBA) prediction** that explicitly models the conformational evolution of pocket–ligand complexes together with the corresponding changes in interaction energies.
 
