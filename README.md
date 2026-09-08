@@ -13,18 +13,26 @@
 
 </div>
 
-<table>
-<tr>
-<td><img src="./video/1M0Q.gif" width="300"></td>
-<td><img src="./video/2AEL.gif" width="300"></td>
-<td><img src="./video/2QZX.gif" width="300"></td>
-</tr>
-<tr>
-<td><img src="./video/3S5Y.gif" width="300"></td>
-<td><img src="./video/4CL6.gif" width="300"></td>
-<td><img src="./video/5EW0.gif" width="300"></td>
-</tr>
-</table>
+<div align="center">
+
+<p>
+  <img src="./video/1M0Q.gif" width="29%">
+  &nbsp;&nbsp;
+  <img src="./video/2AEL.gif" width="29%">
+  &nbsp;&nbsp;
+  <img src="./video/2QZX.gif" width="29%">
+</p>
+
+<p>
+  <img src="./video/3S5Y.gif" width="29%">
+  &nbsp;&nbsp;
+  <img src="./video/4CL6.gif" width="29%">
+  &nbsp;&nbsp;
+  <img src="./video/5EW0.gif" width="29%">
+</p>
+
+</div>
+
 ---
 
 ## Overview
