@@ -42,7 +42,7 @@ Most existing PLBA prediction methods characterize protein–ligand interactions
 D-PLBA addresses this limitation by explicitly incorporating the **dynamic evolution of pocket–ligand binding states** into affinity prediction. Starting from an initial protein–ligand complex, D-PLBA predicts a sequence of dynamically evolving pocket–ligand conformations together with their corresponding interaction energies. These structural and energetic states are subsequently exploited to obtain a more comprehensive characterization of the binding process for affinity prediction.
 
 <p align="center">
-  <img src="./image/intro.png" width="78%" alt="Overview of D-PLBA">
+  <img src="./image/intro.png" width="100%" alt="Overview of D-PLBA">
 </p>
 
 ---
@@ -74,7 +74,7 @@ D-PLBA consists of two major stages:
    The resulting multi-frame binding conformations and interaction energies are incorporated into affinity prediction, allowing D-PLBA to account for both structural flexibility and energetic variation during the binding process.
 
 <p align="center">
-  <img src="./image/method.png" width="85%" alt="D-PLBA framework">
+  <img src="./image/method.png" width="100%" alt="D-PLBA framework">
 </p>
 
 <p align="center">
