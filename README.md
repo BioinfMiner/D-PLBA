@@ -16,19 +16,19 @@
 <div align="center">
 
 <p>
-  <img src="./video/1M0Q.gif" width="33%">
+  <img src="./video/1M0Q.gif" width="31%">
   &nbsp;&nbsp;
-  <img src="./video/2AEL.gif" width="33%">
+  <img src="./video/2AEL.gif" width="31%">
   &nbsp;&nbsp;
-  <img src="./video/2QZX.gif" width="33%">
+  <img src="./video/2QZX.gif" width="31%">
 </p>
 
 <p>
-  <img src="./video/3S5Y.gif" width="33%">
+  <img src="./video/3S5Y.gif" width="31%">
   &nbsp;&nbsp;
-  <img src="./video/4CL6.gif" width="33%">
+  <img src="./video/4CL6.gif" width="31%">
   &nbsp;&nbsp;
-  <img src="./video/5EW0.gif" width="33%">
+  <img src="./video/5EW0.gif" width="31%">
 </p>
 
 </div>
