@@ -16,19 +16,19 @@
 <div align="center">
 
 <p>
-  <img src="./video/1M0Q.gif" width="29%">
+  <img src="./video/1M0Q.gif" width="33%">
   &nbsp;&nbsp;
-  <img src="./video/2AEL.gif" width="29%">
+  <img src="./video/2AEL.gif" width="33%">
   &nbsp;&nbsp;
-  <img src="./video/2QZX.gif" width="29%">
+  <img src="./video/2QZX.gif" width="33%">
 </p>
 
 <p>
-  <img src="./video/3S5Y.gif" width="29%">
+  <img src="./video/3S5Y.gif" width="33%">
   &nbsp;&nbsp;
-  <img src="./video/4CL6.gif" width="29%">
+  <img src="./video/4CL6.gif" width="33%">
   &nbsp;&nbsp;
-  <img src="./video/5EW0.gif" width="29%">
+  <img src="./video/5EW0.gif" width="33%">
 </p>
 
 </div>
@@ -141,7 +141,7 @@ The following examples compare the **predicted pocket–ligand dynamic trajector
 Four randomly selected complexes are shown. The enlarged visualization of **6OA3** further highlights the binding-pocket region and illustrates the evolution of pocket–ligand conformations together with the corresponding interaction energies.
 
 <p align="center">
-  <img src="./image/result.png" width="88%" alt="Predicted pocket-ligand dynamic trajectories">
+  <img src="./image/result.png" width="100%" alt="Predicted pocket-ligand dynamic trajectories">
 </p>
 
 <p align="center">
